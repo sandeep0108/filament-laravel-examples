@@ -11,7 +11,7 @@ A demo application to illustrate how Filament Admin works.
 Clone the repo locally:
 
 ```sh
-git clone https://github.com/laravel-filament/demo.git filament-demo && cd filament-demo
+git clone https://github.com/sandeep0108/filament-laravel-examples filament-demo && cd filament-demo
 ```
 
 Install PHP dependencies:
@@ -69,7 +69,7 @@ php artisan serve
 
 You're ready to go! Visit the url in your browser, and login with:
 
--   **Username:** admin@filamentphp.com
+-   **Username:** demo@yopmail.com
 -   **Password:** password
 
 ## Features to explore
